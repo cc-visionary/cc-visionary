@@ -32,7 +32,77 @@ const anmol = {
 ```
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 24 Contributions in the Year 2021
+ > 
+> 📦 421.9 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.41% 
+🌆 Daytime    133 commits    █████████░░░░░░░░░░░░░░░░   38.78% 
+🌃 Evening    120 commits    ████████░░░░░░░░░░░░░░░░░   34.99% 
+🌙 Night      20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.83%
+
 ```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
+Tuesday      39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.37% 
+Wednesday    49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Thursday     38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
+Friday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
+Saturday     74 commits     █████░░░░░░░░░░░░░░░░░░░░   21.57% 
+Sunday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.87%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+C                        7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+Jupyter Notebook         7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+Java                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
