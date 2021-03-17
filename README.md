@@ -35,13 +35,13 @@ const christopher = {
 
 **🐱 My Github Data** 
 
-> 🏆 27 Contributions in the Year 2021
+> 🏆 29 Contributions in the Year 2021
  > 
 > 📦 422.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
