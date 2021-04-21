@@ -37,7 +37,7 @@ const christopher = {
 
 > 🏆 83 Contributions in the Year 2021
  > 
-> 📦 430.5 kB Used in Github's Storage 
+> 📦 430.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
