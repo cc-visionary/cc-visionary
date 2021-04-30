@@ -21,9 +21,9 @@ const christopher = {
             css: ["vuetify", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "redis-server"]
+            js: ["node", "express", "redis-server", "mongoose"]
         },
-        databases: ["postgresql", "mysql", "sqlite"],
+        databases: ["postgresql", "mongodb", "mysql", "sqlite"],
         misc: ["selenium", "open-cv"]
     },
     currentFocus: "Focusing on schoolworks",
