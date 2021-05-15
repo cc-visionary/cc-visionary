@@ -31,7 +31,7 @@ const christopher = {
 ```
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -74,16 +74,21 @@ Sunday       25 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 14 mins       ███████████████████░░░░░░   77.4% 
+HTML                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.93% 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21% 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 53 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Mini Challenge 3         2 hrs 48 mins       ████████████████████████░   97.24% 
+mine                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 53 mins       █████████████████████████   100.0%
 
 ```
 
