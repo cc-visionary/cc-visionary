@@ -37,7 +37,7 @@ const christopher = {
 
 > 🏆 125 Contributions in the Year 2021
  > 
-> 📦 442.8 kB Used in Github's Storage 
+> 📦 442.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,17 +74,17 @@ Sunday       57 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Vue.js                   1 hr 50 mins        █████████████████████░░░░   87.43% 
-TypeScript               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57%
+Vue.js                   34 mins             █████████████████░░░░░░░░   68.41% 
+TypeScript               15 mins             ████████░░░░░░░░░░░░░░░░░   31.59%
 
 🔥 Editors: 
-VS Code                  2 hrs 5 mins        █████████████████████████   100.0%
+VS Code                  50 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-leap-website             2 hrs 5 mins        █████████████████████████   100.0%
+leap-website             50 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.0%
+Windows                  50 mins             █████████████████████████   100.0%
 
 ```
 
@@ -105,7 +105,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/07/2021
+ Last Updated on 04/07/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
