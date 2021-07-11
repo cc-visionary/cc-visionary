@@ -75,7 +75,7 @@ Sunday       57 commits     ███░░░░░░░░░░░░░░�
 
 💬 Programming Languages: 
 Vue.js                   2 hrs 35 mins       ████████████████████████░   97.45% 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67% 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66% 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
@@ -108,7 +108,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/07/2021
+ Last Updated on 11/07/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
