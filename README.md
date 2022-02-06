@@ -35,9 +35,9 @@ const christopher = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 90 Contributions in the Year 2022
+> 🏆 91 Contributions in the Year 2022
  > 
-> 📦 514.4 kB Used in GitHub's Storage 
+> 📦 515.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,21 +74,17 @@ Sunday       18 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JavaScript               4 hrs 21 mins       █████████████████░░░░░░░░   71.14% 
-CSS                      1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   23.66% 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29% 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.88% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
+JavaScript               43 mins             ████████████████████░░░░░   83.44% 
+CSS                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.56%
 
 🔥 Editors: 
-VS Code                  6 hrs 7 mins        █████████████████████████   100.0%
+VS Code                  52 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-csarch-simulator         5 hrs 25 mins       ██████████████████████░░░   88.37% 
-office-supplies-inventory42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63%
+office-supplies-inventory52 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 7 mins        █████████████████████████   100.0%
+Windows                  52 mins             █████████████████████████   100.0%
 
 ```
 
@@ -109,7 +105,7 @@ HTML                     5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/02/2022 01:01:13 UTC
+ Last Updated on 06/02/2022 01:18:48 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
