@@ -74,17 +74,17 @@ Sunday       19 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JavaScript               43 mins             ████████████████████░░░░░   83.44% 
-CSS                      8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.56%
+JavaScript               2 hrs 5 mins        ████████████████████░░░░░   80.9% 
+CSS                      29 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.1%
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   100.0%
+VS Code                  2 hrs 34 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-office-supplies-inventory52 mins             █████████████████████████   100.0%
+office-supplies-inventory2 hrs 34 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.0%
+Windows                  2 hrs 34 mins       █████████████████████████   100.0%
 
 ```
 
@@ -105,7 +105,7 @@ HTML                     5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/02/2022 01:13:06 UTC
+ Last Updated on 10/02/2022 01:13:26 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
