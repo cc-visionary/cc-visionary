@@ -31,7 +31,7 @@ const christopher = {
 ```
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -74,20 +74,16 @@ Sunday       19 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JavaScript               6 hrs 37 mins       ████████████████████████░   97.72% 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 46 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 54 mins       ██████████████████░░░░░░░   72.53% 
-client                   1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   27.47%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 hrs 46 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -108,7 +104,7 @@ HTML                     5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/02/2022 01:22:21 UTC
+ Last Updated on 01/03/2022 01:33:24 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
