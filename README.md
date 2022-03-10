@@ -31,8 +31,6 @@ const christopher = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%206%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
@@ -106,7 +104,7 @@ HTML                     5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/03/2022 01:26:13 UTC
+ Last Updated on 10/03/2022 01:27:54 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
