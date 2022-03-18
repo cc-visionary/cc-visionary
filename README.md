@@ -74,17 +74,16 @@ Sunday       15 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   42 mins             █████████████████████████   99.77% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          42 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -105,7 +104,7 @@ HTML                     5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/03/2022 01:28:13 UTC
+ Last Updated on 18/03/2022 01:28:24 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
