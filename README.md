@@ -18,15 +18,15 @@ const christopher = {
         mobileApp: ["React Native"],
         frontEnd: {
             js: ["React", "Vue", "Nuxt"],
-            css: ["vuetify", "bootstrap"]
+            css: ["scss", "vuetify"]
         },
         backEnd: {
-            js: ["node", "express", "redis-server", "mongoose"]
+            js: ["nodejs", "express", "mongoose"]
         },
         databases: ["postgresql", "mongodb", "mysql", "sqlite"],
-        misc: ["selenium", "open-cv"]
+        misc: ["selenium", "sklearn", "opencv"]
     },
-    currentFocus: "Focusing on schoolworks",
+    currentFocus: "Focusing on school works",
 };
 ```
 
