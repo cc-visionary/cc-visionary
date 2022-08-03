@@ -76,16 +76,17 @@ Sunday       26 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 2 mins         ████████████████████████░   98.05% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.95%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 3 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+vaccine-tracker          1 hr 3 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 3 mins         █████████████████████████   100.0%
 
 ```
 
@@ -106,7 +107,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/08/2022 02:30:04 UTC
+ Last Updated on 03/08/2022 02:12:12 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
