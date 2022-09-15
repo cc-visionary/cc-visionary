@@ -47,48 +47,6 @@ const christopher = {
  > 
 > 🔑 8 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    44 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.6% 
-🌆 Daytime    110 commits    █████████░░░░░░░░░░░░░░░░   39.01% 
-🌃 Evening    119 commits    ██████████░░░░░░░░░░░░░░░   42.2% 
-🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
-Tuesday      38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
-Wednesday    51 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.09% 
-Thursday     52 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.44% 
-Friday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
-Saturday     57 commits     █████░░░░░░░░░░░░░░░░░░░░   20.21% 
-Sunday       22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.8%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -106,7 +64,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 02:35:59 UTC
+ Last Updated on 15/09/2022 02:43:36 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
