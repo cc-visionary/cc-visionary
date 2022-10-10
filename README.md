@@ -76,16 +76,16 @@ Sunday       34 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               34 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  34 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+geotag-camera            34 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  34 mins             █████████████████████████   100.0%
 
 ```
 
@@ -106,7 +106,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/10/2022 02:31:38 UTC
+ Last Updated on 10/10/2022 02:37:30 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
