@@ -31,7 +31,7 @@ const christopher = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-700%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-701%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,18 +74,19 @@ Sunday                   609 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   1 hr 13 mins        █████████████████████████   99.40 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Python                   1 hr 16 mins        ████████████████████████░   95.61 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Final Project            55 mins             ███████████████████░░░░░░   75.02 % 
-river-feature-extraction-18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+Final Project            55 mins             █████████████████░░░░░░░░   69.97 % 
+river-feature-extraction-13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+FIGMA to JSON            10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,7 +106,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2023 00:34:00 UTC
+ Last Updated on 06/04/2023 00:38:04 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
