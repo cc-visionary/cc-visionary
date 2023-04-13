@@ -31,7 +31,7 @@ const christopher = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-701%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,18 +74,16 @@ Sunday                   609 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   2 hrs               ████████████████████████░   97.53 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Python                   1 hr 53 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Final Project            1 hr 53 mins        ███████████████████████░░   91.37 % 
-FIGMA to JSON            10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Final Project            1 hr 53 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -105,7 +103,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2023 00:40:16 UTC
+ Last Updated on 13/04/2023 00:37:13 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
