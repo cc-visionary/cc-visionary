@@ -31,7 +31,7 @@ const christopher = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -74,19 +74,19 @@ Sunday                   627 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   25 mins             █████████████░░░░░░░░░░░░   50.24 % 
-CSS                      23 mins             ████████████░░░░░░░░░░░░░   46.11 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Python                   1 hr 37 mins        ████████████████████░░░░░   79.24 % 
+CSS                      23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-HTML to PDF Figma        50 mins             █████████████████████████   100.00 % 
+HTML to PDF Figma        2 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  50 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -106,7 +106,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2023 00:38:18 UTC
+ Last Updated on 01/05/2023 00:41:22 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
