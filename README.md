@@ -31,7 +31,7 @@ const christopher = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-718%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-719%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,21 +74,17 @@ Sunday                   627 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   1 hr 5 mins         ███████████████████████░░   93.07 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   17 mins             ████████████████████████░   97.43 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-river-feature-extraction-1 hr 9 mins         █████████████████████████   98.86 % 
-geotag-camera            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+river-feature-extraction-18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -108,7 +104,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2023 00:42:37 UTC
+ Last Updated on 18/05/2023 00:39:45 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
