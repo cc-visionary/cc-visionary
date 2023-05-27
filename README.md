@@ -31,7 +31,7 @@ const christopher = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-721%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-721%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,21 +74,20 @@ Sunday                   627 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   1 hr 25 mins        ███████████████░░░░░░░░░░   61.05 % 
-JavaScript               40 mins             ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-CSS                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Python                   1 hr 44 mins        ███████████████████░░░░░░   76.21 % 
+JavaScript               32 mins             ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-river-feature-extraction-1 hr 25 mins        ███████████████░░░░░░░░░░   61.07 % 
-geotag-camera            54 mins             ██████████░░░░░░░░░░░░░░░   38.93 % 
+river-feature-extraction-1 hr 44 mins        ███████████████████░░░░░░   76.24 % 
+geotag-camera            32 mins             ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
 
 💻 Operating System: 
-Windows                  2 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -108,7 +107,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2023 00:39:45 UTC
+ Last Updated on 27/05/2023 00:42:39 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
