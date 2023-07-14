@@ -17,8 +17,8 @@ const christopher = {
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
-            js: ["React", "Vue", "Nuxt"],
-            css: ["scss", "vuetify"]
+            js: ["React", "Vue"],
+            css: ["scss"]
         },
         cloudHosting: ["AWS"],
         backEnd: {
