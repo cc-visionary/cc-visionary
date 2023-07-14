@@ -13,13 +13,14 @@
 ```javascript
 const christopher = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "C", "C++", "C#"],
+    code: ["Javascript", "Python", "Java", "C++"],
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
             js: ["React", "Vue", "Nuxt"],
             css: ["scss", "vuetify"]
         },
+        cloudHosting: ["AWS"],
         backEnd: {
             js: ["nodejs", "express", "mongoose"]
         },
