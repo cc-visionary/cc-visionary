@@ -75,21 +75,16 @@ Sunday                   649 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C#                       57 mins             ████████████████░░░░░░░░░   65.98 % 
-CSHTML                   26 mins             ████████░░░░░░░░░░░░░░░░░   30.63 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mslearn-create-razor-page54 mins             ████████████████░░░░░░░░░   62.53 % 
-.NET                     32 mins             █████████░░░░░░░░░░░░░░░░   37.47 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -109,7 +104,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2023 00:35:42 UTC
+ Last Updated on 30/08/2023 00:35:35 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
