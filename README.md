@@ -32,8 +32,6 @@ const christopher = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2018%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -48,45 +46,6 @@ const christopher = {
  > 
 > 🔑 14 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1211 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-🌆 Daytime                3523 commits        ███████████░░░░░░░░░░░░░░   43.92 % 
-🌃 Evening                2492 commits        ████████░░░░░░░░░░░░░░░░░   31.06 % 
-🌙 Night                  796 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   928 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Tuesday                  1207 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Wednesday                1291 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Thursday                 1223 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Friday                   1257 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Saturday                 1142 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Sunday                   974 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -104,7 +63,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 01:04:56 UTC
+ Last Updated on 03/01/2026 00:59:38 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
