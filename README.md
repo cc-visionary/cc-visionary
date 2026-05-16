@@ -32,13 +32,15 @@ const christopher = {
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2018%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 627 Contributions in the Year 2026
+> 🏆 660 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,6 +48,45 @@ const christopher = {
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1399 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+🌆 Daytime                3837 commits        ███████████░░░░░░░░░░░░░░   44.05 % 
+🌃 Evening                2590 commits        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+🌙 Night                  884 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   1058 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Tuesday                  1323 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Wednesday                1485 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Thursday                 1352 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Friday                   1331 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Saturday                 1176 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Sunday                   985 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -63,7 +104,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 02:14:13 UTC
+ Last Updated on 16/05/2026 02:06:55 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
