@@ -32,8 +32,6 @@ const christopher = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-825%20hrs%2018%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -48,45 +46,6 @@ const christopher = {
  > 
 > 🔑 19 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1408 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-🌆 Daytime                3949 commits        ███████████░░░░░░░░░░░░░░   43.57 % 
-🌃 Evening                2789 commits        ████████░░░░░░░░░░░░░░░░░   30.77 % 
-🌙 Night                  917 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   1062 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Tuesday                  1398 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Wednesday                1483 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Thursday                 1492 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Friday                   1418 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Saturday                 1211 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Sunday                   999 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -104,7 +63,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/cc-visionary/cc-visionary/master/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 02:12:02 UTC
+ Last Updated on 29/05/2026 02:15:37 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
